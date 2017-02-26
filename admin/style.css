@@ -1,0 +1,21 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+td {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+th {
+	font-family: Arial, Helvetica, sans-serif;
+}
+.maindiv{
+	position:absolute;
+	z-index:2008;
+	width: 70%;
+	height: 50%;
+	float:right;
+	left: 196px;
+	top: 16px;
+}
+.juzhong{ position:relative;margin:0px auto; width:1208px;}
